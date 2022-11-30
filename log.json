@@ -1,0 +1,23 @@
+{
+    "backend": "api-server-django",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "sqlite",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "horizon-ui",
+    "docker": "0",
+    "err_code": 0,
+    "frontend": "react",
+    "heroku": "0",
+    "pattern": "fullstack",
+    "pro": "0",
+    "task_id": "ae240188-25a5-4c0c-9272-df4bf7732292",
+    "task_info": "Upload Sources [0%] - 211 files",
+    "task_output": "ae240188-25a5-4c0c-9272-df4bf7732292.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2022-11-30-21-28-04",
+    "task_ts_start": "2022-11-30-21-28-02"
+}
